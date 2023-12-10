@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/7f00edf8-b02e-41fa-aeb2-d89086456e87/resourceGroups/rg-infra-dev-sg/providers/Microsoft.Web/sites/demo-appservice-vanila",
+    "appService.deploySubpath": "."
+}
